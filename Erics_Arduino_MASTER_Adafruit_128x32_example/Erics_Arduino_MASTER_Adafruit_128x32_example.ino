@@ -1,4 +1,4 @@
-8/*********************************************************************
+/*********************************************************************
 This is an example for our Monochrome OLEDs based on SSD1306 drivers
 Pick one up today in the adafruit shop!
   ------> http://www.adafruit.com/category/63_98
