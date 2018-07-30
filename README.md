@@ -9,3 +9,9 @@ All credit remains to Adafruit in the code files.
 My Youtube Channel : http://www.youtube.com/mkmeorg
 
 Website http://mkme.org
+
+Support my videos by buying on Amazon:
+Buy this OLED on Amazon: https://amzn.to/2NV09lL
+Arduino Nano: https://amzn.to/2mVlSyh
+Breadboard: https://amzn.to/2mYkr2t
+Jumper wires: https://amzn.to/2mRoxJl
