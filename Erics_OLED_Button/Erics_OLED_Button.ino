@@ -18,7 +18,10 @@ SDA connected to pin Analog 4
 SCL connected to pin Analog 5
 Monochrome OLEDs based on SSD1306 drivers
 
-This sketch simply prints one line to the diaply.  Nothing more.  Yeah boring eh?
+This sketch simply prints a button status to OLED and blinks the LED  Yeah boring eh?
+Use 1-10K resistor from button signal pin to ground as pull down.
+Other button pin to VCC
+
 *********************************************************************/
 
 #include <SPI.h>
