@@ -84,10 +84,11 @@ void setup()   {
 void loop() {
   checkbatt();
    // text display tests
-  display.setTextSize(1);
+  display.setTextSize(4);
   display.setTextColor(WHITE);
   display.setCursor(0,0);
-  display.println("MKME Test New OLED");
+  display.print (battv);
+  display.println("V");
   display.display();
   delay(2000);
   display.clearDisplay();
