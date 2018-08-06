@@ -86,7 +86,7 @@ void loop() {
   display.print (battv);
   display.println("V");
   display.display();
-  delay(2000);
+  //delay(2000);
   display.clearDisplay();
 }
 void checkbatt()
