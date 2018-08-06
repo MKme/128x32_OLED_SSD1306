@@ -66,24 +66,20 @@ float battv;
 
 void setup()   {                
   Serial.begin(9600);
-
   // by default, we'll generate the high voltage from the 3.3v line internally! (neat!)
   display.begin(SSD1306_SWITCHCAPVCC, 0x3C);  // initialize with the I2C addr 0x3C (for the 128x32)
   // init done
-  
   // Show image buffer on the display hardware.
   // Since the buffer is intialized with an Adafruit splashscreen
   // internally, this will display the splashscreen.
   display.display();
   delay(2000);
-
   // Clear the buffer.
   display.clearDisplay();
 }
  
 void loop() {
   checkbatt();
-   // text display tests
   display.setTextSize(4);
   display.setTextColor(WHITE);
   display.setCursor(0,0);
@@ -93,7 +89,6 @@ void loop() {
   delay(2000);
   display.clearDisplay();
 }
-
 void checkbatt()
  {
 int val = analogRead(batteryPin);  // read the value from the A0 battery monitoring pin with voltage divider
