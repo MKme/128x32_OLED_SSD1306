@@ -6,6 +6,8 @@ Repo is my storage for examples and basic project code using the Adafruit Librar
 
 All credit remains to Adafruit in the code files.  
 
+Full video on this display https://www.youtube.com/watch?v=Nx13ovvOB1k&list=PLxyM2a_cfnzh8Lj6NEgOK68VD3-2XxHox&index=9&t=0s
+
 My Youtube Channel : http://www.youtube.com/mkmeorg
 
 Website http://mkme.org
