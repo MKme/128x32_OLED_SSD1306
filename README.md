@@ -1,3 +1,17 @@
+<p align="center">
+<br>
+ <img src="https://github.com/MKme/Machine-Learning/blob/main/Photos/machine-learning.jpg" width="700"/>
+ <br>
+
+<br>
+<br>
+🐦 <a href="https://twitter.com/mkmeorg">Twitter</a>
+| 📺 <a href="https://www.youtube.com/mkmeorg">YouTube</a>
+| 🌍 <a href="http://www.mkme.org">mkme.org</a><br>
+Support this project and become a patron on <a href="http://mkme.org/patreon">Eric's Patreon</a>.<br>
+Website, Forum and store are at http://mkme.org <br>
+Chat with Me: <a href="https://discord.gg/j9S4Fgv">Discord</a></b>
+</p>
 
 # Eric's 128x32_OLED_SSD1306 Stuff
 
@@ -12,7 +26,7 @@ All credit remains to Adafruit in the code files.
 Full video on this display https://www.youtube.com/watch?v=Nx13ovvOB1k&list=PLxyM2a_cfnzh8Lj6NEgOK68VD3-2XxHox&index=9&t=0s
 <p align="center">
 <br>
- <img src="https://github.com/MKme/ResQ/blob/master/Photos/Laser%20Cut%20Cases/IMG_0831.jpg" width="700"/>
+ <img src="https://github.com/MKme/128x32_OLED_SSD1306/blob/master/Pics/2_.jpg" width="700"/>
  <br>
 
 
