@@ -17,6 +17,14 @@ Chat with Me: <a href="https://discord.gg/j9S4Fgv">Discord</a></b>
 
 Buy a OLED here: https://amzn.to/3rhi3CT
 
+Buy this OLED on Amazon: https://amzn.to/2NV09lL
+
+Arduino Nano: https://amzn.to/2mVlSyh
+
+Breadboard: https://amzn.to/2mYkr2t
+
+Jumper wires: https://amzn.to/2mRoxJl
+
 Eric is slow and needs to have his own repos for basic OLED stuff or he forgets EVERYTHING between projects.
 
 Repo is my storage for examples and basic project code using the Adafruit Library for this nifty little OLED DISPLAY.
@@ -35,8 +43,4 @@ My Youtube Channel : http://www.youtube.com/mkmeorg
 
 Website http://mkme.org
 
-Support my videos by buying on Amazon:
-Buy this OLED on Amazon: https://amzn.to/2NV09lL
-Arduino Nano: https://amzn.to/2mVlSyh
-Breadboard: https://amzn.to/2mYkr2t
-Jumper wires: https://amzn.to/2mRoxJl
+
