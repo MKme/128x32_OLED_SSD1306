@@ -1,6 +1,6 @@
 <p align="center">
 <br>
- <img src="https://github.com/MKme/Machine-Learning/blob/main/Photos/machine-learning.jpg" width="700"/>
+ <img src="https://github.com/MKme/128x32_OLED_SSD1306/blob/master/Pics/2_.jpg" width="700"/>
  <br>
 
 <br>
@@ -26,7 +26,7 @@ All credit remains to Adafruit in the code files.
 Full video on this display https://www.youtube.com/watch?v=Nx13ovvOB1k&list=PLxyM2a_cfnzh8Lj6NEgOK68VD3-2XxHox&index=9&t=0s
 <p align="center">
 <br>
- <img src="https://github.com/MKme/128x32_OLED_SSD1306/blob/master/Pics/2_.jpg" width="700"/>
+ <img src="https://github.com/MKme/128x32_OLED_SSD1306/blob/master/Pics/1.jpg" width="700"/>
  <br>
 
 
